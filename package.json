@@ -1,0 +1,11 @@
+{
+    "name": "client-manager",
+    "version": "0.1",
+    "description": "A simple CRUD application",
+    "main": "Gruntfile.js",
+    "dependencies": {
+        "grunt": "~0.4.1",
+        "grunt-phplint": "latest",
+        "grunt-phpcs": "latest"
+    }
+}
